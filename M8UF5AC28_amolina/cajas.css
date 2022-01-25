@@ -1,0 +1,137 @@
+.box1 {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1%;
+  border: 2px solid green;
+  text-align: center;
+}
+.box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box3 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box4 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box5 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box6 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box7 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box8 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+.box9 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1%;
+    border: 2px solid green;
+    text-align: center;
+  }
+div.solid1 {
+    border-style: solid;
+    border-color: greenyellow;
+}
+div.dashed1 {
+    border-style: dashed;
+    border-color: green;
+}
+div.dashed2 {
+    border-style: dashed;
+    border-color: green;
+}
+div.dashed3 {
+    border-style: dashed;
+    border-color: green;
+}
+div.dashed4 {
+    border-style: dashed;
+    border-color: green;
+}
+div.dashed5 {
+    border-style: dashed;
+    border-color: blue;
+}
+div.dashed6 {
+    border-style: dashed;
+    border-color: blue;
+}
+div.dashed7 {
+    border-style: dashed;
+    border-color: blue;
+}
+div.dashed8 {
+    border-style: dashed;
+    border-color: blue;
+}
+div.dashed9 {
+    border-style: dashed;
+    border-color: blue;
+}
+div.dashed10 {
+    border-style: dashed;
+    border-color: red;
+}
+div.dashed11 {
+    border-style: dashed;
+    border-color: red;
+}
+div.dashed12 {
+    border-style: dashed;
+    border-color: red;
+}
+div.dashed13 {
+    border-style: dashed;
+    border-color: red;
+}
+div.dashed14 {
+    border-style: dashed;
+    border-color: red;
+}
+div.solid2 {
+    border-style: solid;
+    border-color: red;
+}
+

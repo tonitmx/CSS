@@ -1,0 +1,41 @@
+table {
+    width: 70%;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-image: url("../img/IMAGEN.png");
+}
+
+.p1 { background-color: yellow;}
+.p2 { background-color: orange;}
+.p3 { background-color: red;}
+.p4 { background-color: pink;}
+.p5 { background-color: purple;}
+.p6 { background-color: blue;}
+.p7 { background-color: aqua}
+.p8 { background-color: greenyellow;}
+.p9 { background-color: green;}
+.p10 { background-color: gray;}
+.p1:hover { background-color: gray;}
+.p2:hover { background-color: yellow;}
+.p3:hover { background-color: orange;}
+.p4:hover { background-color: red;}
+.p5:hover { background-color: pink;}
+.p6:hover { background-color: purple;}
+.p7:hover { background-color: blue;}
+.p8:hover { background-color: aqua;}
+.p9:hover { background-color: greenyellow;}
+.p10:hover { background-color:green}
+p span.bottom {
+    border-bottom: 2px solid;
+}
+p span.top {
+    border-top: 2px solid;
+}
+
+.strong {
+    font-weight: bold;
+}
+

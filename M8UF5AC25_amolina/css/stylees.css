@@ -1,0 +1,6 @@
+body {height: 100%;}
+header {border-style: solid; border-color: red; position: static; margin-bottom: 0.5%; margin-left: 1%;}
+aside {border-style: solid; border-color: greenyellow; position: absolute; width: 20%; height: 400px; margin-left: 1%;}
+nav {border-style: solid; border-color: cyan; position: relative; width: 78%; margin-left: 22%; height: 50px; margin-bottom: -1%;}
+article {border-style: solid; border-color: yellow; position: relative; width: 78%; height: 335px; margin-left: 22%; margin-top: 1.5%;}
+footer {border-style: solid; border-color: purple; position: static; height: 30px; margin-left: 1%; margin-top: 0.5%;}

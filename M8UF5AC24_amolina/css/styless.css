@@ -1,0 +1,84 @@
+.p1 {
+    background-color: blue;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p2 {
+    background-color: blue;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p3 {
+    background-color: blue;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p4 {
+    background-color: blue;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p5 {
+    background-color: blue;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p6 {
+    background-color: green;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p7 {
+    background-color: green;
+    color: white;
+    width: 5%;
+    text-align: center;
+    list-style-type: none;
+}
+.p1:hover { 
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+.p2:hover { 
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+.p3:hover { 
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+.p4:hover { 
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+.p5:hover { 
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
+.p6:hover { 
+    background-color: gray;
+    border-style: solid;
+    border-color: red;
+}
+.p7:hover { 
+    background-color: gray;
+    border-style: solid;
+    border-color: red;
+}
